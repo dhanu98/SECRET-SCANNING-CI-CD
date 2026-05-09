@@ -1,4 +1,5 @@
 [allowlist]
 paths = [
-  '''secret.env'''
+  "secret\\.env",
+  ".*\\.env.*"
 ]
